@@ -56,20 +56,18 @@
 | Apache | ⭐⭐⭐ (3/5) |
 
 ---
-
+ 
 ### 📈 GitHub Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotMalo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotMalo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NotMalo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NotMalo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotMalo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=NotMalo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
-
+ 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NotMalo&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy-nine.vercel.app/?username=NotMalo&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
