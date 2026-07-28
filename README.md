@@ -55,8 +55,6 @@
 | WinSCP | ⭐⭐⭐⭐ (4/5) |
 | Apache | ⭐⭐⭐ (3/5) |
 
----
- 
 ### 📈 GitHub Stats
  
 <p align="center">
